@@ -11,6 +11,7 @@
 		ED3CEC212C32EA0900B5FA39 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3CEC202C32EA0900B5FA39 /* ContentView.swift */; };
 		ED3CEC232C32EA0D00B5FA39 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED3CEC222C32EA0D00B5FA39 /* Assets.xcassets */; };
 		ED3CEC262C32EA0D00B5FA39 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED3CEC252C32EA0D00B5FA39 /* Preview Assets.xcassets */; };
+		ED3CEC2D2C32EADA00B5FA39 /* DataStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3CEC2C2C32EADA00B5FA39 /* DataStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		ED3CEC202C32EA0900B5FA39 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		ED3CEC222C32EA0D00B5FA39 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ED3CEC252C32EA0D00B5FA39 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		ED3CEC2C2C32EADA00B5FA39 /* DataStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		ED3CEC1D2C32EA0900B5FA39 /* TickTockTask */ = {
 			isa = PBXGroup;
 			children = (
+				ED3CEC2C2C32EADA00B5FA39 /* DataStore.swift */,
 				ED3CEC1E2C32EA0900B5FA39 /* TickTockTaskApp.swift */,
 				ED3CEC202C32EA0900B5FA39 /* ContentView.swift */,
 				ED3CEC222C32EA0D00B5FA39 /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ED3CEC212C32EA0900B5FA39 /* ContentView.swift in Sources */,
+				ED3CEC2D2C32EADA00B5FA39 /* DataStore.swift in Sources */,
 				ED3CEC1F2C32EA0900B5FA39 /* TickTockTaskApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
