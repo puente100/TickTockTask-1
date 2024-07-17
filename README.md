@@ -8,9 +8,6 @@
 - **Delete Tasks:** Delete tasks by swiping left on the item.
 - **Intuitive Interface:** Designed to be user-friendly and visually pleasing.
 
-## Screenshots
-![TickTockTask Screenshot 1](./images/screenshot1.png)
-![TickTockTask Screenshot 2](./images/screenshot2.png)
 
 ## Installation
 1. Clone this repository:
