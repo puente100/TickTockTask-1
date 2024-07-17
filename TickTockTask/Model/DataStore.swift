@@ -14,5 +14,5 @@ struct Task: Identifiable {
 }
 
 class TaskStore: ObservableObject {
-    @Published var task = [Task]()
+    @Published var tasks = [Task]()
 }

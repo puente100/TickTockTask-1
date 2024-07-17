@@ -53,9 +53,9 @@
 		ED3CEC1D2C32EA0900B5FA39 /* TickTockTask */ = {
 			isa = PBXGroup;
 			children = (
-				ED3CEC2C2C32EADA00B5FA39 /* DataStore.swift */,
+				ED3CEC2F2C3C523300B5FA39 /* Model */,
 				ED3CEC1E2C32EA0900B5FA39 /* TickTockTaskApp.swift */,
-				ED3CEC202C32EA0900B5FA39 /* ContentView.swift */,
+				ED3CEC2E2C3C522800B5FA39 /* Views */,
 				ED3CEC222C32EA0D00B5FA39 /* Assets.xcassets */,
 				ED3CEC242C32EA0D00B5FA39 /* Preview Content */,
 			);
@@ -68,6 +68,22 @@
 				ED3CEC252C32EA0D00B5FA39 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		ED3CEC2E2C3C522800B5FA39 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				ED3CEC202C32EA0900B5FA39 /* ContentView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		ED3CEC2F2C3C523300B5FA39 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				ED3CEC2C2C32EADA00B5FA39 /* DataStore.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
